@@ -1,3 +1,7 @@
+<!-- Github repo: https://github.com/smshahriar10/priority-task-list.git -->
+
+<!-- Template code: -->
+
 <script setup>
 import { ref, computed, onMounted, watch } from 'vue';
 
